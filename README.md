@@ -7,3 +7,5 @@ to the four methods used to map brain microstructure. The notebooks are as follo
 2. Relaxed Ball and Stick (ALL voxels) - this refers to the novel relaxed ball and stick model which was fitted to all voxels of the MRI data.
 3. Random Forest Relaxed Ball and Stick - this refers to the random forest regressor being used to fit the relaxed ball and stick model to the MRI data.
 4. MLP Relaxed Ball and Stick - this refers to the MLP regressor being used to fit the relaxed ball and stick model to the MRI data.
+
+https://github.com/neilnarayan44/dmipy.git 
